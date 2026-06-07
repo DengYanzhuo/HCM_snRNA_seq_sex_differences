@@ -4,7 +4,7 @@ Single-nucleus RNA-seq analysis of sex-dimorphic cellular and molecular dysregul
 This repository contains the complete analysis code for the manuscript:
 
 **Single-nucleus profiling of human hypertrophic cardiomyopathy uncovers sex-dimorphic cellular and molecular dysregulation**  
-Yanzhuo Deng, Zhuoran Liang, Yihao Liu, Baofa Sun  
+Yanzhuo Deng, Zhuoran Liang, Zihang Ma, Yihao Liu, Baofa Sun  
 
 ## Abstract
 
